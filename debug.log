@@ -1,0 +1,12 @@
+[0113/085858.233:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0113/121500.603:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0114/084409.683:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0114/090447.252:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0119/122639.544:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0119/122639.561:ERROR:exception_snapshot_win.cc(99)] thread ID 4252 not found in process
+[0119/122639.581:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0119/122639.581:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0119/122639.581:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0119/122639.581:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0119/122639.581:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0119/122639.581:ERROR:exception_snapshot_win.cc(99)] thread ID 15668 not found in process
